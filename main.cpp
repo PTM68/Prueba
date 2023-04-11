@@ -10,6 +10,7 @@ int iteraciones = 3;
 
 int main () {
     printf("Cambio tonto para ver que pasa\n");
+    printf("otro cambio mas (2)\n");
     VarDataRef myVDRef_aux2 ;
     int xx;
     for (xx=0;xx<iteraciones;xx++) {
