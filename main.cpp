@@ -11,7 +11,7 @@ int iteraciones = 3;
 int main () {
     printf("Cambio tonto para ver que pasa\n");
     printf("otro cambio mas, esta vez modifico (3)\n");
-    printf("Este cambio lo hago en local.\n";
+    printf("Este cambio lo hago en local.\n");
     printf("Deberia ir a gitHub y de ahi a Replit\n");
     VarDataRef myVDRef_aux2 ;
     int xx;
